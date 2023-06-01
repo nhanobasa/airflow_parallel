@@ -1,0 +1,7 @@
+apache-airflow==2.5.1
+pytest==7.3.1
+pytest-mock==3.10.0
+pytest-helpers-namespace==2021.12.29
+black==19.3b0
+flake8==3.8.4
+pre-commit==2.7.1

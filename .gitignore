@@ -1,0 +1,4 @@
+venv
+/test/*/.pytest_cache/
+.idea
+!/data/*.json
